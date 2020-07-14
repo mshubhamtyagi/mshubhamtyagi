@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A professional Full Stack Developer with Experience in Angular, Node/Express, MongoDB/MySQL/Oracle. I am also a Blockchain Developer.
+I’m currently learning React.
+
